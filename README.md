@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu1909
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning reactjs and angular js along with html and css
+- 🌱 I’m currently learning reactjs along with html and css
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me
 MAIL- priyanshugupta1909@gmail.com
